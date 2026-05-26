@@ -1,6 +1,5 @@
 ## Ex-4 Deployment and configuration of a Private Cloud in AWS
 
-### DATE:
 ## Name: NITHILA S
 ## Reg. No.: 212224040224
 
